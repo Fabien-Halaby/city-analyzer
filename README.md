@@ -12,7 +12,7 @@ Geographical data analysis tool for French cities using OpenStreetMap
 
 ## Installation
 
-1. Clone the repository:
+. Clone the repository:
 ```bash
 git clone https://github.com/Fabien-Halaby/city-analyzer.git
 cd city-analyzer
